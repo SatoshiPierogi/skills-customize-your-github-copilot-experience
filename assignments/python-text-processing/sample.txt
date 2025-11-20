@@ -1,0 +1,6 @@
+The quick brown fox jumps over the lazy dog.
+Python is a great language for text processing and quick scripting.
+Text processing includes tokenization, counting, and cleaning noisy text.
+
+This sample provides a tiny paragraph of text so you can test your word counts and filters.
+Feel free to add more lines, punctuation, and repeated words to exercise your code.

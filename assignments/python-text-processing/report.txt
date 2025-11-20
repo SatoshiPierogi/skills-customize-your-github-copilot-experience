@@ -1,0 +1,8 @@
+Total words: 60
+Unique words: 48
+Top words:
+text: 4
+and: 4
+the: 2
+quick: 2
+a: 2
